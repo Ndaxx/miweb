@@ -1,0 +1,40 @@
+* {
+    font-family: nunito;
+}
+
+nav img {
+    height: 75px;
+    width: 200px;
+    left: 500px;
+}
+
+.color {
+    color:black;
+    text-decoration: none;
+}
+
+header {
+    display: inline-block;
+    text-align: end;
+    font-weight: 900;
+    font-size: 20px;
+}
+
+.header {
+    margin: 20px;
+    font-weight: 900;
+    font-size: 20px;
+}
+
+.none:hover {
+    background-image: linear-gradient(blue,aqua);
+    color: white;
+}
+
+.fa-facebook {
+    color: blue ;
+}
+
+nav {
+    text-align: end;
+}
